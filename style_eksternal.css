@@ -1,0 +1,36 @@
+nav {
+    background: #de40bc;
+    color:#fff;
+    padding: 10px;
+}
+nav a {
+    color:#fff;
+    text-decoration: none;
+    padding:20px 30px;
+}
+nav .active,
+nav a.hover {
+    background: #0B6B3A; 
+}
+#intro {
+    background: #74a9ed;
+    border: 1px solid #099249;
+    min-height: 120px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align:left;
+    border: 0;
+    color: #fff;
+}
+.botton {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #afdb40;
+}

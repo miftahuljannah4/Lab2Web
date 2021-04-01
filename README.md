@@ -1,8 +1,8 @@
 # Lab2Web
-Nama  : Miftahul Jannah
-Kelas : TI 19 B2
-Nim   : 311910740
-Praktikum 2 Pertanyaan :
+#Nama  : Miftahul Jannah
+#Kelas : TI 19 B2
+#Nim   : 311910740
+#Praktikum 2 Pertanyaan :
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!

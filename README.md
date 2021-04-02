@@ -13,19 +13,13 @@
 Jawab : 
 1. Menambahkan .blok {background-color: pink;} di style 
 2. Elemen h1 mencakup intro h1, elemen h1 meliputi juga button navigasi dan #intro h1 yang bertuliskan hello wordl 
-3. Yang lebih cepat responnya adalah css eksternal karena bisa membuat ukuran file html menjadi lebih kecil. 
-	Contoh css internal :
+3. Yang akan ditampilkan adalah css Internal karena satu dengan HTML, sedangkan css eksternal harus melalui link. 
+	Contoh css internal dan eksternal (yang ditampilkan adalah css internal) :
 
-	<style> body { background-color: red; } h1 { color: blue; padding: 60px; } </style>
-	Hostinger Tutorials
-	This is our paragraph.
-
-	Contoh css inline :
-
-	Hostinger Tutorials
-	Something usefull here.
+	![7](https://user-images.githubusercontent.com/81582495/113417964-bdc16600-93ee-11eb-9b2c-5d5d739ed11b.PNG)
 
 	Contoh css eksternal :
+	![8](https://user-images.githubusercontent.com/81582495/113418074-f5301280-93ee-11eb-9479-3c70a7f7f1bb.PNG)
 
 4. Yang akan ditampilkan sebagai file css adalah elemen "class" karena elemen "class" mendeklarasikan class css yang digunaknan .Sedangan id menentukan id unik yang terdapat pada elemen contoh : <a class="button btn-primary "href="intro"> Informasi selengkapnya
 
